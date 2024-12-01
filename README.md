@@ -26,5 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarun16050&show_icons=true&locale=en&layout=compact" alt="tarun16050" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tarun16050&show_icons=true&locale=en" alt="tarun16050" /></p>
-<h1></h1>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun16050&" alt="tarun16050" /></p>
